@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oraldo666
-- 👀 I’m interested in ... Python programing
-- 🌱 I’m currently learning ... Python web development
+- 👀 I’m interested in ... Python programing, Django , React
+- 🌱 I’m currently learning ... Web development
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... orald.hysaj@hotmail.com
 
