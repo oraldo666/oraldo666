@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oraldo666, Orald Hysaj
 - 👀 I’m passionate about programming
-- 💼 I specialize in React.js, Next.js, React Native
+- 💼 Frontend Engineer | React.js • Next.js • React Native
 - 📫 You can reach me at orald.hysaj@hotmail.com
 
 <!---
